@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: mmanoharan8
+Build-Jdk: 11.0.8
+Implementation-Title: spring-boot-mongodb-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.techprimers.mongodb
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-mo
+ ngodb-example/
+Created-By: Maven Integration for Eclipse
+
